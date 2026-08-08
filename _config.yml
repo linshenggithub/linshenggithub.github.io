@@ -59,7 +59,7 @@ markdown:
     - '@traptitech/markdown-it-katex'
 
 index_generator:
-  path: ''
+  path: blog
   per_page: 8
   order_by: -date
 

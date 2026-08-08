@@ -53,7 +53,7 @@ navbar:
     px: 8
     alpha: 0.82
   menu:
-    - { key: 'home', link: '/', icon: 'iconfont icon-home-fill', name: '首页' }
+    - { key: 'home', link: '/', icon: 'iconfont icon-user-fill', name: '关于我' }
     - { key: 'projects', link: '/projects/', icon: 'iconfont icon-code', name: '项目' }
     - { key: 'research', link: '/research/', icon: 'iconfont icon-books', name: '研究' }
     - {
@@ -61,12 +61,12 @@ navbar:
         icon: 'iconfont icon-archive-fill',
         name: '学习笔记',
         submenu: [
+          { key: 'blog', link: '/blog/', name: '最新文章' },
           { key: 'archive', link: '/archives/', name: '时间归档' },
           { key: 'category', link: '/categories/', name: '分类' },
           { key: 'tag', link: '/tags/', name: '标签' }
         ]
       }
-    - { key: 'about', link: '/about/', icon: 'iconfont icon-user-fill', name: '关于' }
 
 search:
   enable: true
