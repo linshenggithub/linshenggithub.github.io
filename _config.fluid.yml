@@ -1,5 +1,5 @@
-favicon: https://avatars.githubusercontent.com/u/74703626?v=4
-apple_touch_icon: https://avatars.githubusercontent.com/u/74703626?v=4
+favicon: /img/avatar-ma-yi.png
+apple_touch_icon: /img/avatar-ma-yi.png
 force_https: true
 
 custom_css: /css/custom.css
@@ -193,7 +193,7 @@ about:
   banner_img: /img/hero-ai-lab.png
   banner_img_height: 52
   banner_mask_alpha: 0.16
-  avatar: https://avatars.githubusercontent.com/u/74703626?v=4
+  avatar: /img/avatar-ma-yi.png
   name: 'Ma Yi'
   intro: '大模型算法求职者 · Agentic RAG / RL Post-training / LLM4Rec'
   icons:
