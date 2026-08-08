@@ -1,0 +1,247 @@
+:root {
+  --ma-ink: #17333a;
+  --ma-muted: #6a7f83;
+  --ma-cyan: #24a8a3;
+  --ma-mint: #dff4ee;
+  --ma-coral: #e97969;
+  --ma-yellow: #f4c95d;
+  --ma-line: #dbe9e6;
+}
+
+html,
+body,
+.markdown-body {
+  letter-spacing: 0 !important;
+}
+
+body {
+  background: #f5faf9;
+}
+
+#navbar {
+  border-bottom: 1px solid rgba(219, 233, 230, 0.7);
+}
+
+#navbar .navbar-brand,
+#navbar .nav-link {
+  font-weight: 600;
+}
+
+#banner {
+  background-position: center center;
+}
+
+#banner .h2,
+#banner .h1,
+#banner h1,
+#banner .subtitle {
+  color: var(--ma-ink) !important;
+  text-shadow: 0 2px 18px rgba(255, 255, 255, 0.96);
+}
+
+#banner .h2,
+#banner h1 {
+  font-weight: 800;
+}
+
+.board {
+  border: 1px solid rgba(219, 233, 230, 0.86);
+  border-radius: 8px;
+  box-shadow: 0 18px 48px rgba(39, 95, 91, 0.09);
+}
+
+.home-intro {
+  padding: 8px 0 4px;
+}
+
+.home-intro__lead {
+  margin: 0 0 22px;
+  color: var(--ma-muted);
+  font-size: 16px;
+  line-height: 1.9;
+}
+
+.home-module-grid,
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 20px 0;
+}
+
+.home-module,
+.project-card {
+  display: block;
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--ma-line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ma-ink) !important;
+  text-decoration: none !important;
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.home-module:hover,
+.project-card:hover {
+  transform: translateY(-3px);
+  border-color: #9ed5cf;
+  box-shadow: 0 12px 28px rgba(36, 168, 163, 0.12);
+}
+
+.home-module__mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 14px;
+  border-radius: 50%;
+  background: var(--ma-mint);
+  color: #087f79;
+  font-weight: 800;
+}
+
+.home-module:nth-child(2) .home-module__mark,
+.project-card:nth-child(2) .project-card__eyebrow {
+  background: #fff0ed;
+  color: #b94f45;
+}
+
+.home-module:nth-child(3) .home-module__mark,
+.project-card:nth-child(3) .project-card__eyebrow {
+  background: #fff8dc;
+  color: #8f6a00;
+}
+
+.home-module strong,
+.project-card h3 {
+  display: block;
+  margin: 0 0 8px;
+  color: var(--ma-ink);
+  font-size: 18px;
+}
+
+.home-module small,
+.project-card p {
+  display: block;
+  color: var(--ma-muted);
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.stat-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 24px 0 8px;
+}
+
+.stat-item {
+  padding: 14px 10px;
+  border-top: 3px solid var(--ma-cyan);
+  background: #f8fcfb;
+  text-align: center;
+}
+
+.stat-item:nth-child(2) { border-color: var(--ma-coral); }
+.stat-item:nth-child(3) { border-color: var(--ma-yellow); }
+.stat-item:nth-child(4) { border-color: #58a7d7; }
+
+.stat-item strong {
+  display: block;
+  color: var(--ma-ink);
+  font-size: 20px;
+}
+
+.stat-item span {
+  color: var(--ma-muted);
+  font-size: 12px;
+}
+
+.project-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.project-card__eyebrow,
+.source-badge {
+  display: inline-block;
+  margin-bottom: 12px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background: var(--ma-mint);
+  color: #087f79;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.project-card__meta {
+  margin-top: 14px;
+  color: #087f8c;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.timeline-list {
+  margin: 20px 0;
+  padding-left: 22px;
+  border-left: 2px solid #a7d8d2;
+}
+
+.timeline-item {
+  position: relative;
+  margin: 0 0 24px;
+  padding-left: 16px;
+}
+
+.timeline-item::before {
+  position: absolute;
+  top: 7px;
+  left: -29px;
+  width: 12px;
+  height: 12px;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  background: var(--ma-cyan);
+  box-shadow: 0 0 0 1px var(--ma-cyan);
+  content: '';
+}
+
+.privacy-note {
+  padding: 16px 18px;
+  border-left: 4px solid var(--ma-yellow);
+  background: #fffaf0;
+  color: #66582c;
+}
+
+.markdown-body a {
+  text-underline-offset: 3px;
+}
+
+@media (max-width: 900px) {
+  .home-module-grid,
+  .project-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .stat-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  #banner {
+    background-position: 58% center;
+  }
+
+  .home-module-grid,
+  .project-grid,
+  .stat-strip {
+    grid-template-columns: 1fr;
+  }
+
+  .home-module,
+  .project-card {
+    padding: 16px;
+  }
+}
