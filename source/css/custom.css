@@ -210,7 +210,18 @@ body {
   padding: 14px 10px;
   border-top: 3px solid var(--ma-cyan);
   background: #f8fcfb;
+  color: var(--ma-ink) !important;
   text-align: center;
+  text-decoration: none !important;
+}
+
+.stat-item--link {
+  transition: transform 180ms ease, background 180ms ease;
+}
+
+.stat-item--link:hover {
+  transform: translateY(-2px);
+  background: #eef9f7;
 }
 
 .stat-item:nth-child(2) { border-color: var(--ma-coral); }

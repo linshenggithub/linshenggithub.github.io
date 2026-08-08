@@ -36,12 +36,12 @@ comment: false
     <p>通过固定签名代码生成、受约束执行和自然语言融合，降低结构化数据计算偏差并形成 Bad Case 闭环。</p>
     <div class="project-card__meta">47% → 100% · Code Interpreter</div>
   </div>
-  <div class="project-card">
+  <a class="project-card" href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">
     <span class="project-card__eyebrow">PAPER / CCF-A</span>
     <h3>D3M 数据集蒸馏</h3>
     <p>在扩散模型潜空间中生成兼具代表性与多样性的原型，以较高压缩率保留训练效用。</p>
-    <div class="project-card__meta">IEEE TMM · Dataset Distillation</div>
-  </div>
+    <div class="project-card__meta">IEEE TMM · Dataset Distillation →</div>
+  </a>
 </div>
 
 </div>

@@ -19,7 +19,7 @@ description: Ma Yi 的个人主页，大模型算法求职者，关注 Agentic R
 </div>
 
 <div class="stat-strip profile-stats">
-  <div class="stat-item"><strong>CCF-A</strong><span>IEEE TMM</span></div>
+  <a class="stat-item stat-item--link" href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener"><strong>CCF-A</strong><span>IEEE TMM · 论文 →</span></a>
   <div class="stat-item"><strong>+34pt</strong><span>多跳问答提升</span></div>
   <div class="stat-item"><strong>100%</strong><span>业务测试准确率</span></div>
   <div class="stat-item"><strong>0.789</strong><span>LLM4Rec AUC</span></div>
@@ -60,4 +60,3 @@ description: Ma Yi 的个人主页，大模型算法求职者，关注 Agentic R
 ## 这个网站
 
 这里既是个人作品集，也是一座持续更新的知识花园。项目页说明我做成过什么，研究与笔记记录我如何理解问题。公开内容会经过单独整理，本地原始笔记不会直接进入网站或 GitHub。
-

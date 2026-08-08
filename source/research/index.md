@@ -17,12 +17,12 @@ comment: false
 
 ## Selected Publication
 
-<div class="project-card">
+<a class="project-card" href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">
   <span class="project-card__eyebrow">IEEE TMM · CCF-A · CO-FIRST AUTHOR</span>
   <h3>D3M：基于扩散模型的原型表示数据集蒸馏</h3>
   <p>在扩散模型潜空间中合成具有代表性和多样性的训练原型。在 16% 压缩率下，分类性能达到原始数据训练效果的 91%，相较对比方法平均提升约 4%。</p>
-  <div class="project-card__meta">论文链接与 BibTeX 将在确认最终公开信息后补充</div>
-</div>
+  <div class="project-card__meta">在 IEEE Xplore 阅读论文 →</div>
+</a>
 
 ## Open Research Workspace
 
