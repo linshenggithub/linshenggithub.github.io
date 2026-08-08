@@ -26,6 +26,7 @@ description: Ma Yi 的个人学术主页，研究方向包括 Agentic RAG、大�
       <p>现为哈尔滨工业大学（深圳）硕士研究生，研究聚焦于复杂推理场景下大语言模型的知识获取、决策优化与可靠评估。主要研究兴趣包括 <strong>Agentic RAG、大模型强化学习后训练、LLM4Rec 与数据集蒸馏</strong>。</p>
       <p>当前工作围绕多步检索轨迹建模、过程奖励设计与策略优化展开，旨在通过监督微调、偏好学习和在线强化学习，提高智能体在开放域问答与真实业务任务中的稳定性、可控性和可解释性。</p>
       <div class="academic-links" aria-label="学术与个人链接">
+        <a href="mailto:24S151146@stu.hit.edu.cn">Email</a>
         <a href="https://github.com/linshenggithub" target="_blank" rel="noopener">GitHub</a>
         <a href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">IEEE Xplore</a>
         <a href="/projects/">Research</a>
