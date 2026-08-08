@@ -54,8 +54,7 @@ navbar:
     alpha: 0.82
   menu:
     - { key: 'home', link: '/', icon: 'iconfont icon-user-fill', name: '关于我' }
-    - { key: 'projects', link: '/projects/', icon: 'iconfont icon-code', name: '项目' }
-    - { key: 'research', link: '/research/', icon: 'iconfont icon-books', name: '研究' }
+    - { key: 'projects', link: '/projects/', icon: 'iconfont icon-code', name: '科研项目' }
     - {
         key: 'notes',
         icon: 'iconfont icon-archive-fill',

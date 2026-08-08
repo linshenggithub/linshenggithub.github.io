@@ -24,8 +24,7 @@ description: Ma Yi 的个人主页，大模型算法求职者，关注 Agentic R
       <p>我关注模型在复杂任务中的推理与决策过程，也重视研究方法能否经过可靠评估并进入真实系统。</p>
       <div class="academic-links" aria-label="个人链接">
         <a href="https://github.com/linshenggithub" target="_blank" rel="noopener">GitHub</a>
-        <a href="/projects/">项目</a>
-        <a href="/research/">研究</a>
+        <a href="/projects/">科研项目</a>
         <a href="/blog/">学习笔记</a>
       </div>
     </div>
@@ -54,7 +53,7 @@ description: Ma Yi 的个人主页，大模型算法求职者，关注 Agentic R
         <p class="publication-entry__summary">在扩散模型潜空间中合成兼具代表性与多样性的训练原型；在 16% 压缩率下达到原始数据训练效果的 91%，相较对比方法平均提升约 4%。</p>
         <div class="publication-entry__links">
           <a href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">IEEE Xplore</a>
-          <a href="/research/">研究详情</a>
+          <a href="/projects/#publications">科研项目</a>
         </div>
       </div>
     </article>

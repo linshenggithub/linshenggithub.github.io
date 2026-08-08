@@ -1,17 +1,25 @@
 ---
-title: 代表项目
-subtitle: 从研究问题到可验证结果
+title: 科研项目
 banner_img: /img/hero-ai-lab.png
-banner_img_height: 52
-banner_mask_alpha: 0.14
+banner_img_height: 38
+banner_mask_alpha: 0.12
 comment: false
 ---
 
-<div class="markdown-body">
+<div class="markdown-body project-portfolio">
 
-这些案例重点说明问题、方法、个人贡献和结果。实习项目只展示脱敏后的技术摘要。
+<nav class="section-jump" aria-label="科研项目目录">
+  <a href="#research-projects">研究项目</a>
+  <a href="#industry-projects">实习项目</a>
+  <a href="#early-projects">早期项目</a>
+  <a href="#publications">论文成果</a>
+</nav>
 
-<div class="project-grid">
+这里集中展示我做过的研究、工程实践和论文成果。每个项目重点说明问题、方法与结果；实习内容仅保留经过脱敏的技术摘要。
+
+## 研究项目
+
+<div class="project-grid" id="research-projects">
   <a class="project-card" href="https://github.com/linshenggithub/SAPR-RAG" target="_blank" rel="noopener">
     <span class="project-card__eyebrow">RESEARCH / OPEN SOURCE</span>
     <h3>Agentic RAG 过程优化</h3>
@@ -24,6 +32,11 @@ comment: false
     <p>围绕多步检索轨迹、策略偏好数据和批量推理搭建实验管线，用于基线复现与错误诊断。</p>
     <div class="project-card__meta">Qwen · Retrieval · Process Supervision →</div>
   </a>
+</div>
+
+## 实习项目
+
+<div class="project-grid" id="industry-projects">
   <div class="project-card">
     <span class="project-card__eyebrow">INTERNSHIP / SANITIZED</span>
     <h3>LLM4Rec 用户仿真 Agent</h3>
@@ -36,11 +49,27 @@ comment: false
     <p>通过固定签名代码生成、受约束执行和自然语言融合，降低结构化数据计算偏差并形成 Bad Case 闭环。</p>
     <div class="project-card__meta">47% → 100% · Code Interpreter</div>
   </div>
+</div>
+
+## 早期项目
+
+<div class="project-grid" id="early-projects">
+  <a class="project-card" href="https://github.com/orange-kekun/HITSZSP" target="_blank" rel="noopener">
+    <span class="project-card__eyebrow">UNDERGRADUATE / MINI PROGRAM</span>
+    <h3>HITSZ Recipe 食谱小程序</h3>
+    <p>大一立项项目，面向校内师生整理食堂菜品、价格与口碑，并支持按食堂、地域、时段和口味分类检索。</p>
+    <div class="project-card__meta">微信小程序 · JavaScript · 云函数 →</div>
+  </a>
+</div>
+
+## 论文成果
+
+<div class="project-grid" id="publications">
   <a class="project-card" href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">
-    <span class="project-card__eyebrow">PAPER / CCF-A</span>
+    <span class="project-card__eyebrow">PAPER / IEEE TMM / CCF-A</span>
     <h3>D3M 数据集蒸馏</h3>
-    <p>在扩散模型潜空间中生成兼具代表性与多样性的原型，以较高压缩率保留训练效用。</p>
-    <div class="project-card__meta">IEEE TMM · Dataset Distillation →</div>
+    <p>在扩散模型潜空间中生成兼具代表性与多样性的训练原型；本人为共同一作。</p>
+    <div class="project-card__meta">IEEE Xplore · Dataset Distillation →</div>
   </a>
 </div>
 
