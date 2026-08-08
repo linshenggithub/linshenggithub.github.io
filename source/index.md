@@ -37,13 +37,6 @@ description: Ma Yi 的个人学术主页，研究方向包括 Agentic RAG、大�
     </figure>
   </section>
 
-  <div class="academic-highlights" aria-label="研究概览">
-    <div><strong>CCF-A</strong><span>IEEE TMM · 共同第一作者</span></div>
-    <div><strong>+34 pp</strong><span>开放域多跳问答准确率提升</span></div>
-    <div><strong>0.789</strong><span>LLM4Rec · AUC</span></div>
-    <div><strong>100%</strong><span>表格智能问答真实数据准确率</span></div>
-  </div>
-
   <section class="academic-section" id="updates">
     <div class="academic-heading">
       <span>NEWS</span>
