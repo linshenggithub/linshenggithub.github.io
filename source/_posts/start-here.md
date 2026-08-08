@@ -23,7 +23,7 @@ og_img: /img/hero-ai-lab.png
     <a class="home-module" href="/archives/">
       <span class="home-module__mark">02</span>
       <strong>学习笔记</strong>
-      <small>大模型、强化学习、算法基础与工程实践的长期记录。</small>
+      <small>论文阅读、数据集蒸馏、RL 后训练与 Agentic RAG 的长期记录。</small>
     </a>
     <a class="home-module" href="/projects/#publications">
       <span class="home-module__mark">03</span>
@@ -44,7 +44,7 @@ og_img: /img/hero-ai-lab.png
 ## 网站内容
 
 - **科研项目**：以问题、方法、个人贡献和结果为主线，汇总研究、工程与论文成果。
-- **学习笔记**：整合公开的 CSDN 文章，以及经过白名单和脱敏处理的本地 Markdown。
+- **学习笔记**：优先整理论文阅读、数据集蒸馏、强化学习后训练与 Agentic RAG，并对本地 Markdown 逐篇脱敏重写。
 - **研究记录**：在科研项目与学习笔记中整理 Agentic RAG、强化学习后训练和数据蒸馏方向的研究过程。
 - **个人经历**：教育背景、公开实习经历、兴趣爱好与联系方式。
 
