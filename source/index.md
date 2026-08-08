@@ -38,7 +38,7 @@ description: Ma Yi 的个人主页，大模型算法求职者，关注 Agentic R
     <ul class="update-list">
       <li><span class="update-label">Paper</span><span><strong>D3M</strong> 发表在 IEEE Transactions on Multimedia（CCF-A）。<a href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">论文链接</a></span></li>
       <li><span class="update-label">Research</span><span>持续研究 Agentic RAG 的多步检索轨迹、证据效用与过程奖励。</span></li>
-      <li><span class="update-label">Open Source</span><span>维护 <a href="https://github.com/linshenggithub/SAPR-RAG" target="_blank" rel="noopener">SAPR-RAG</a> 与 <a href="https://github.com/linshenggithub/myRAG" target="_blank" rel="noopener">myRAG</a> 实验项目。</span></li>
+      <li><span class="update-label">Open Source</span><span>维护 <a href="https://github.com/linshenggithub/SAPR-RAG" target="_blank" rel="noopener">SAPR-RAG</a>，记录 Agentic RAG 的实验与过程监督方法。</span></li>
     </ul>
   </section>
 

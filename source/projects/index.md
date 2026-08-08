@@ -26,12 +26,6 @@ comment: false
     <p>面向复杂问答中的查询漂移、证据链断裂和过早停止，研究状态感知证据效用与过程奖励。</p>
     <div class="project-card__meta">SFT · DPO · GRPO · Multi-hop QA →</div>
   </a>
-  <a class="project-card" href="https://github.com/linshenggithub/myRAG" target="_blank" rel="noopener">
-    <span class="project-card__eyebrow">ENGINEERING / OPEN SOURCE</span>
-    <h3>ReasonRAG 实验系统</h3>
-    <p>围绕多步检索轨迹、策略偏好数据和批量推理搭建实验管线，用于基线复现与错误诊断。</p>
-    <div class="project-card__meta">Qwen · Retrieval · Process Supervision →</div>
-  </a>
 </div>
 
 ## 实习项目

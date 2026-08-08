@@ -45,6 +45,5 @@ flowchart LR
 ## 公开代码
 
 - [SAPR-RAG](https://github.com/linshenggithub/SAPR-RAG)：面向复杂问答的状态感知过程奖励研究工作区。
-- [myRAG](https://github.com/linshenggithub/myRAG)：Agentic RAG 与过程监督实验代码。
 
 后续笔记会继续记录基线复现、错误分类、轨迹数据构造和消融实验。
