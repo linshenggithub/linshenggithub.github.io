@@ -2,7 +2,7 @@ favicon: /img/avatar-ma-yi.png
 apple_touch_icon: /img/avatar-ma-yi.png
 force_https: true
 
-custom_css: /css/custom.css
+custom_css: /css/custom.css?v=20260809-2
 
 dark_mode:
   enable: false
