@@ -44,7 +44,6 @@ description: Ma Yi 的个人学术主页，研究方向包括 Agentic RAG、大�
       <h2>最新动态</h2>
     </div>
     <ol class="update-list update-list--dated">
-      <li><time datetime="2026-08">2026.08</time><span>上线个人学术主页，持续整理研究项目、论文阅读与算法笔记。</span></li>
       <li><time datetime="2026">2026</time><span><strong>D3M</strong> 发表在 <em>IEEE Transactions on Multimedia</em>（CCF-A）。<a href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">Paper</a></span></li>
       <li><time datetime="2026-06">2026.06</time><span>完成 LLM4Rec 用户行为仿真与推荐归因研究，在多源特征建模、后训练及评估闭环方面形成系统实践。</span></li>
       <li><time datetime="2026-03">2026.03</time><span>完成财务表格智能问答方案优化，构建受约束代码生成与执行流程，并通过生产评审。</span></li>

@@ -28,8 +28,4 @@ comment: false
 
 `Python` · `PyTorch` · `Transformers` · `Llama-Factory` · `ms-swift` · `vLLM` · `DeepSpeed` · `DPO` · `GRPO`
 
-## 关于这个博客
-
-这里记录学习笔记、科研札记、项目经历和偶尔的生活随笔。公开内容会经过单独整理，本地原始笔记不会直接进入网站或 GitHub。
-
 联系方式暂以 [GitHub](https://github.com/linshenggithub) 为主。
