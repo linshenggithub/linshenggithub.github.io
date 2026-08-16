@@ -44,6 +44,7 @@ description: Ma Yi 的个人学术主页，研究方向包括 Agentic RAG、大�
       <h2>最新动态</h2>
     </div>
     <ol class="update-list update-list--dated">
+      <li><time datetime="2026">2026</time><span><strong>RoP</strong> 已被 <em>IEEE Transactions on Circuits and Systems for Video Technology</em> 接收，IEEE Xplore 页面已上线。<a href="https://ieeexplore.ieee.org/document/11586102/" target="_blank" rel="noopener">Paper</a></span></li>
       <li><time datetime="2026">2026</time><span><strong>D3M</strong> 发表在 <em>IEEE Transactions on Multimedia</em>（CCF-A）。<a href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">Paper</a></span></li>
       <li><time datetime="2026-06">2026.06</time><span>完成 LLM4Rec 用户行为仿真与推荐归因研究，在多源特征建模、后训练及评估闭环方面形成系统实践。</span></li>
       <li><time datetime="2026-03">2026.03</time><span>完成财务表格智能问答方案优化，构建受约束代码生成与执行流程，并通过生产评审。</span></li>
@@ -65,6 +66,20 @@ description: Ma Yi 的个人学术主页，研究方向包括 Agentic RAG、大�
         <div class="publication-entry__links">
           <a href="https://ieeexplore.ieee.org/abstract/document/11434971" target="_blank" rel="noopener">IEEE Xplore</a>
           <a href="/notes/2024/12/generative-dataset-distillation-reading/">Research Note</a>
+          <a href="/projects/#publications">Project Summary</a>
+        </div>
+      </div>
+    </article>
+    <article class="publication-entry">
+      <div class="publication-entry__index">02</div>
+      <div class="publication-entry__body">
+        <p class="publication-entry__venue">IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY · ACCEPTED</p>
+        <h3>Robust Dataset Pruning via Joint Noise-Aware Discrimination and Re-Labeling</h3>
+        <p class="publication-entry__authors">Weiwei Xiao, <strong>Ma Yi</strong>, Shaocong Wu, Qihen Shan, Yaowei Wang, Jingyong Su</p>
+        <p class="publication-entry__summary">针对标签噪声场景下数据集剪枝难以区分困难样本与错标样本的问题，提出两阶段 Robust Pruning（RoP）框架：结合标签分布差异、特征与标签传播识别噪声样本，并对保留子集重新标注，以降低模型对噪声标签的过拟合。</p>
+        <div class="publication-entry__links">
+          <a href="https://ieeexplore.ieee.org/document/11586102/" target="_blank" rel="noopener">IEEE Xplore</a>
+          <a href="https://doi.org/10.1109/TCSVT.2026.3708310" target="_blank" rel="noopener">Official DOI</a>
           <a href="/projects/#publications">Project Summary</a>
         </div>
       </div>

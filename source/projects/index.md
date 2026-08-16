@@ -65,6 +65,12 @@ comment: false
     <p>在扩散模型潜空间中生成兼具代表性与多样性的训练原型；本人为共同一作。</p>
     <div class="project-card__meta">IEEE Xplore · Dataset Distillation →</div>
   </a>
+  <a class="project-card" href="https://ieeexplore.ieee.org/document/11586102/" target="_blank" rel="noopener">
+    <span class="project-card__eyebrow">PAPER / IEEE TCSVT / ACCEPTED</span>
+    <h3>RoP 鲁棒数据集剪枝</h3>
+    <p>联合噪声感知判别、特征与标签传播及子集重标注，提升数据集剪枝在标签噪声场景下的鲁棒性。</p>
+    <div class="project-card__meta">IEEE Xplore · Noise-Robust Dataset Pruning →</div>
+  </a>
 </div>
 
 </div>
